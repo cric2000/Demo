@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820811738669",
+    "project_id": "playlab-5de3c",
+    "storage_bucket": "playlab-5de3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820811738669:android:da4686d083bfa0f01e92a4",
+        "android_client_info": {
+          "package_name": "com.example.play_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820811738669-b8p93u7kunnpco5rjgteuoubqdtotdbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.play_lab",
+            "certificate_hash": "945e4a5d30c7dec402a8dfd37c150f958cbcf32b"
+          }
+        },
+        {
+          "client_id": "820811738669-qe03ihvf4lnkms3do2d41gmiect7vhir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9BONZ-115ZrBmcgpEfzkmZbbR2PeoyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820811738669-qe03ihvf4lnkms3do2d41gmiect7vhir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
